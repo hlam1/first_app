@@ -1,4 +1,11 @@
+So, what I would like this app to be able to do is to flag a porta potty
+location using google maps, so that other people with the same app can locate 
+porta pottys if they are in a 5 mile radius. 
+
+
 == Welcome to Rails
+
+
 
 Rails is a web-application framework that includes everything needed to create
 database-backed web applications according to the Model-View-Control pattern.
